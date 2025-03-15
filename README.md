@@ -13,7 +13,7 @@ Un pequeño juego interactivo desarrollado con **HTML, CSS y JavaScript** que pe
 ✅ Interfaz sencilla y fácil de usar.  
 
 ## 🖥️ Captura de pantalla
-[Captura del Incio del juego](./assets/Captura.jpg)
+[Captura del Incio del juego](./assets/Captura.JPG)
 [Captura del Resultado del juego](./assets/Captura2.jpg)
 
 
