@@ -12,11 +12,6 @@ Un pequeño juego interactivo desarrollado con **HTML, CSS y JavaScript** que pe
 ✅ Sorteo aleatorio de un amigo secreto con `Math.random()`.  
 ✅ Interfaz sencilla y fácil de usar.  
 
-## 🖥️ Captura de pantalla
-[Captura del Incio del juego](./assets/Captura.JPG)
-[Captura del Resultado del juego](./assets/Captura2.jpg)
-
-
 
 ## 📦 Instalación y Uso
 
